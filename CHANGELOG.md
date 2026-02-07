@@ -17,6 +17,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [6.3] - 2026-02-07
+
+### Added
+- **Git Diff Viewer Tab**: Visual diff visualization for code review
+  - Compare working directory, staged changes, or any commits
+  - File list showing all changed files
+  - Color-coded diff output (green=additions, red=deletions)
+  - Click any file to see its specific diff
+  - Support for comparing any two commits/branches
+
+- **Merge Conflict Resolver Tab**: Visual 3-way merge conflict resolution
+  - Scan for files with merge conflicts
+  - 3-way view: BASE (common ancestor), THEIRS (incoming), OURS (your changes)
+  - One-click resolution: "Accept Theirs" or "Accept Ours"
+  - Manual edit option for complex conflicts
+  - Mark resolved and stage files
+
+---
+
 ## [6.2.1] - 2026-02-07
 
 ### Fixed
