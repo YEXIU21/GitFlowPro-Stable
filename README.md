@@ -152,8 +152,8 @@ GITFLOW-PRO/
 </p>
 
 <p align="center">
-  <a href="https://github.com/franz">
-    <img src="https://img.shields.io/badge/Franz-Developer-blue?style=for-the-badge&logo=github" alt="Franz">
+  <a href="https://github.com/StefanSalvatoreWP">
+    <img src="https://img.shields.io/badge/Franz-Developer-blue?style=for-the-badge&logo=github" 
   </a>
   <a href="https://github.com/YEXIU21">
     <img src="https://img.shields.io/badge/Yexiu21-Developer-green?style=for-the-badge&logo=github" alt="Yexiu21">
