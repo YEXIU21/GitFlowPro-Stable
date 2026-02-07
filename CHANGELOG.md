@@ -17,6 +17,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [6.4] - 2026-02-07
+
+### Added
+- **Interactive Rebase Tab**: Visual interactive rebase for commit history management
+  - Load commits from HEAD~N or any reference
+  - Select/deselect commits with checkboxes
+  - Per-commit actions: pick, reword, edit, squash, fixup, drop
+  - Start, abort, and continue rebase operations
+  - Real-time commit list with action dropdowns
+
+---
+
 ## [6.3] - 2026-02-07
 
 ### Added
