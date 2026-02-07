@@ -17,6 +17,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [6.2.1] - 2026-02-07
+
+### Fixed
+- **Git Author Dialog Minimize Issue**: Fixed dialog not reappearing after Windows+D minimize
+  - Removed modal `grab_set()` to allow proper window management
+  - Added dialog instance tracking to prevent duplicate windows
+  - Added `lift()` and `focus_force()` to bring existing dialog to front
+
+---
+
 ## [6.2] - 2026-02-07
 
 ### Added
